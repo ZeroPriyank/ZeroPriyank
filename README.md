@@ -1,4 +1,4 @@
-# Hi, I'm Priyank 👋
+# Hi, I'm Priyank 
 
 Welcome to my GitHub profile!
 
