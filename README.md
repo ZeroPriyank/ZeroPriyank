@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Priyank 👋
 
-<!--
-**ZeroPriyank/ZeroPriyank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I love learning new things, exploring technology, and building my skills. ##About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 My name is Priyank
+- 💻 I enjoy learning about technology
+- 🧠 I like learning new things
+- 🚀 I am always curious to explore
+- 🌱 I am learning and improving every day
+- ## My Interests
+
+- 💻 Technology
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 🧩 Problem Solving
+- 📚 Learning New Things
+- ## Skills
+
+- 💻 Programming
+- 🌐 Web Technologies
+- 🧱 HTML
+- 🔧 Git & GitHub
+- 🧠 Problem Solving
+- ## 🌱 Currently Learning
+
+I am continuously learning new technologies and improving my skills.
